@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 384 512"  xml:space="preserve">
+<path d="M192,0C87.7,111,0,220.9,0,300.5C0,425,79,512,192,512s192-87,192-211.5C384,220.6,290.9,104.3,192,0z M192,448
+	c-56.5,0-96-39-96-94.8c0-46.3,24-53.3,96-168.2c65,106.9,96,140.9,96,168.2C288,409,248.5,448,192,448z" fill="grey"/>
+</svg>
